@@ -1,0 +1,48 @@
+
+body{
+  background-color:lightblue;
+  font-family:"Courier New";
+}
+
+
+h1{
+  color:black;
+  font-size:50px;
+ 
+  
+}
+
+p{
+  font-family:"Courier New";
+  font-style:italic;
+  font-size:20px;
+}
+
+button{
+  font-family:"Courier New";
+}
+
+
+
+.quotes{
+  background-color:white;
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+
+}
+
+.quote{
+  font-size:30px;
+}
+
+.author{
+  font-size:20px;
+  font-style:italic;
+}
